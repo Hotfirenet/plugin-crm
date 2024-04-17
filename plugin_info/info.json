@@ -1,7 +1,7 @@
 {
-	"id": "template",
-	"name": "Template",
-	"pluginVersion": "0.1",
+	"id": "crm",
+	"name": "CRM",
+	"pluginVersion": "1",
 	"specialAttributes": {
 		"object": {
 			"toto": {
@@ -37,19 +37,19 @@
 		}
 	},
 	"description": {
-		"fr_FR": "Template servant de base à la création de plugins pour Jeedom"
+		"fr_FR": "Transforme Jeedom en CRM"
 	},
 	"licence": "AGPL",
 	"author": "Jeedom SAS",
 	"require": "4.2",
-	"category": "programming",
+	"category": "Organization",
 	"hasDependency": false,
 	"hasOwnDeamon": false,
 	"maxDependancyInstallTime": 0,
-	"changelog_beta": "https:\/\/doc.jeedom.com\/#language#\/plugins\/programming\/template\/beta\/changelog",
-	"changelog": "https:\/\/doc.jeedom.com\/#language#\/plugins\/programming\/template\/changelog",
-	"documentation_beta": "https:\/\/doc.jeedom.com\/#language#\/plugins\/programming\/template\/beta",
-	"documentation": "https:\/\/doc.jeedom.com\/#language#\/plugins\/programming\/template",
+	"changelog_beta": "https:\/\/doc.jeedom.com\/#language#\/plugins\/organization\/crm\/beta\/changelog",
+	"changelog": "https:\/\/doc.jeedom.com\/#language#\/plugins\/organization\/crm\/changelog",
+	"documentation_beta": "https:\/\/doc.jeedom.com\/#language#\/plugins\/organization\/crm\/beta",
+	"documentation": "https:\/\/doc.jeedom.com\/#language#\/plugins\/organization\/crm",
 	"link": {
 		"forum": "Lien vers le forum",
 		"video": "Lien vers une video"
